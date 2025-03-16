@@ -12,7 +12,7 @@
         <img src="your-photo.jpg" alt="나의 사진" class="photo">
 
         <!-- 텍스트 -->
-        <p class="text">여기 줄글을 적을 수 있어요. 간단한 소개나 메시지를 적으면 좋겠죠?</p>
+        <p class="text">helloworld!</p>
     </div>
 </body>
 </html>
